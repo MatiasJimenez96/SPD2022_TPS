@@ -26,4 +26,6 @@
     - jiménez, Matías                  matias.jimenez.0096@gmail.com
     Division: 1 F
 
-LINK: https://www.tinkercad.com/things/kEQ0w35fl8P
+LINK TP 1: https://www.tinkercad.com/things/kEQ0w35fl8P
+
+LINK TP 2: https://www.tinkercad.com/things/lmEYmWQN9eQ
